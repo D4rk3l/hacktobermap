@@ -1,5 +1,11 @@
 var hacktobermap = [
   {
+    name: "Aidan E",
+    location: "British Columbia, Canada",
+    latitude: 50.6745,
+    longitude: 120.3273
+  },
+  {
     name: "Abhijit Parida",
     location: "Bhubaneswar",
     latitude: 20.296059,
